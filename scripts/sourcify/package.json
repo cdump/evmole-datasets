@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Maxim Andreev <andreevmaxim@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@ethereum-sourcify/lib-sourcify": "^1.9.3"
+  }
+}

@@ -1,3 +1,1 @@
-largest1k.tar.gz filter=lfs diff=lfs merge=lfs -text
-random50k.tar.gz filter=lfs diff=lfs merge=lfs -text
-vyper.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
